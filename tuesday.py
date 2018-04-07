@@ -8,3 +8,4 @@ if datetime.datetime.today().weekday() == 1: # this is just a format taken from 
     print("yay! It is Tuesday.")
 else:
     print("Unfortunately it is not Tuesday") 
+
