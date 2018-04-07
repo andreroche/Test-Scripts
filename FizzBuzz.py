@@ -12,3 +12,6 @@ while i <= 100:     # as long as i is less than or equal to 100
   else:   # if it's neither of the above, i.e. neither division by 3 or 5 leaves a remainder of 0 then just print the value of i
     print (i)
   i = i + 1     # standard command to ensure i increments
+
+
+    
